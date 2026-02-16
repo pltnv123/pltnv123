@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&repeat=true&width=520&lines=Anton+%7C+pltnv123+%F0%9F%91%8B;Python+%7C+Django+%7C+Telegram+Bots" alt="Typing SVG" />
-</p>
+# 👋 Anton | pltnv123
+
+> *Офицер по образованию, моряк по опыту — теперь делаю то, что хочу*
+>
+> **Stack:** Python · Django · DRF · PostgreSQL · Celery
 
 <p align="center">
-  <i>Офицер по образованию, моряк по опыту — теперь делаю то, что хочу</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2CA5E0&center=true&repeat=true&width=480&lines=Python+%7C+Django+%7C+Telegram+Bots" alt="Typing" />
 </p>
 
 <p align="center">
