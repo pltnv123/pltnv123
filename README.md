@@ -1,6 +1,6 @@
 # 👋 Anton | pltnv123
 
-> *Офицер по образованию, моряк по опыту — теперь делаю то, что хочу*
+> Учился на судоводителя, но с детства меня интересовали инженерия и программирование. К сожалению, выбрал не то образование. После нескольких рабочих рейсов понял — это не моё. В один из рейсов скачал Python для обучения: каждый вечер после работы программировал. И понял — это действительно интересно, это то, чем хочу заниматься всю жизнь.
 >
 > **Stack:** Python · Django · DRF · PostgreSQL · Celery
 
@@ -14,17 +14,6 @@
   <img src="https://img.shields.io/badge/DRF-009688?style=for-the-badge&logo=django&logoColor=white" alt="DRF">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Telegram-Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</p>
-
----
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pltnv123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2CA5E0&icon_color=2CA5E0" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pltnv123&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=2CA5E0" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pltnv123&theme=radical&hide_border=true&background=0D1117&stroke=2CA5E0&ring=2CA5E0&fire=2CA5E0&currStreakLabel=2CA5E0" alt="GitHub Streak" />
 </p>
 
 ---
